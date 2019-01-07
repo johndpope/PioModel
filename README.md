@@ -24,6 +24,12 @@ loadlive2d("{Canvas}", "{URL}");
 本资源从 [bilibili-haruna](https://github.com/52cik/bilibili-haruna) 中获取，继承开源协议 `MIT`。  
 资源地址示例： `https://cdn.jsdelivr.net/gh/Rayce/PioModel/Bilibili/22/model.2017.summer.super.1.json`。
 
+### Asuna
+本资源从 [Live2D-Asuna](https://github.com/ZhangZisu/Live2D-Asuna) 中获取。
+
+### live2d-weight-model
+本资源从 [Live2DModel](https://github.com/qishaoxuan/live2DModel/) 中获取。
+
 ## 我要上传
 1. 确认您的资源尚未上传，并且您拥有分享资源的权利。
 
